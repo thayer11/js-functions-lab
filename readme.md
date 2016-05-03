@@ -61,7 +61,7 @@ Use the Chrome dev tools console to practice executing your code.
 
 #### Deliverable
 
-Submit your solution via a pull request on Github to our `homework` repo.
+Push completed homework up to your fork of this repo.
 
 
 ## Additional Resources
@@ -77,4 +77,4 @@ During the previous exercise, rate your progress on a scale of 1-5 (5 being the 
 - **Collaboration:** Do you make an effort solve problems and share your ideas with others?
 - **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
 - **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
+- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know?
