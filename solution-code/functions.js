@@ -100,12 +100,6 @@ function filterLongWords (arr,num) {
 
 
 // Bonus 1
-String.prototype.reverse = function(){ 
-  return this.split('').reverse().join('');
-};
-
-
-// Bonus 2
 function charactersOccurencesCount(stringToCount) {
   var characters = {};
   // replacing all Capitals by Lowercase letters and removing spaces

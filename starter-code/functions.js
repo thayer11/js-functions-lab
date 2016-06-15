@@ -51,10 +51,6 @@ function filterLongWords () {
 
 
 // Bonus 1
-// (hint: `prototype`)
-
-
-// Bonus 2
 function charactersOccurencesCount() {
   
 }

@@ -31,7 +31,6 @@ Please write code that implements various functions, following the requirements 
 
 **Bonus**
 
-1. Add a method `reverseString` (from question 6) to the object String so that it is possible to call: `"General Assembly".reverseString()`.
 2. Write a function that takes a string as argument and returns an object where:
   - the keys are the characters that occur in the string
   - the values are the number of occurences for each letter, regardless of the case
