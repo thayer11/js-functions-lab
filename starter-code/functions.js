@@ -1,15 +1,39 @@
 // Question 1
-function maxOfTwoNumbers() {
-
+function maxOfTwoNumbers(x,y){
+if (x > y) {
+	return x;
+}
+else (y > x) {
+	return y;
+}
 }
 
 // Question 2
-function maxOfThree() {
-
+function maxOfThree(x,y,z) {
+if (x > y && x > z) {
+	return x;
+}
+else if (z > y && z > x){
+	return z;
+}
+else {
+	return y; 
+}
 }
 
+
+
 // Question 3
-function isCharacterAVowel() {
+function isCharacterAVowel(char) 
+if (char === 'a'|| char ===='e' || char === 'i' ||
+char === 'u'){
+	return true;
+}
+else {
+	return false;
+}
+
+
 
 }
 
